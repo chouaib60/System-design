@@ -1,10 +1,4 @@
 # System-design
-les flèches : alt + 26 →
-alt + 27 ←
-alt + 24 ↑
-alt + 25 ↓ 
-alt + 29 ↔
-alt + 23 ↨
 
 1 bit est la plus petite unité du data (elle égal soit à 0 ou )
 1 byte = 8 bits
